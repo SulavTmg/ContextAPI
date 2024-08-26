@@ -1,1 +1,2 @@
-# miniContext
+# Mini projects
+- miniContext
